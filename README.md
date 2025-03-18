@@ -1,1 +1,1 @@
-# python_playwright_learing
+# python_playwright_learning
